@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
