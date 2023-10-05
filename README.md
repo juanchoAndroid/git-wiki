@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
