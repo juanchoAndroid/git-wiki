@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
