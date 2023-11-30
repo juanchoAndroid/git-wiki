@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+OBB: Fix plot_images (#7592)
