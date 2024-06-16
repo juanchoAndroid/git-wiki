@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
