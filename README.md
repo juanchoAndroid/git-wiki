@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add docs links to all dataset YAMLs (#7360)
