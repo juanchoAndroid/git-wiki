@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
